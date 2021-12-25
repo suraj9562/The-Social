@@ -1,15 +1,4 @@
-# Logs
-backend/logs
-*.log
-
-# Coverage directory used by tools like istanbul
-backend/coverage
-
-# Dependency directories
-backend/node_modules
-
-# Compiled sanity studio
-backend/dist
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
