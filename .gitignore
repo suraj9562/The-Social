@@ -1,0 +1,13 @@
+# Logs
+backend/logs
+*.log
+
+# Coverage directory used by tools like istanbul
+backend/coverage
+
+# Dependency directories
+backend/node_modules
+
+# Compiled sanity studio
+backend/dist
+
