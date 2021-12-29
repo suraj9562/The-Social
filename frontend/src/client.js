@@ -12,4 +12,4 @@ const client = Sanity({
 const builder = imageUrlBuilder(client);
 
 export default client;
-export const uelFor = (source) => builder.image(source);
+export const urlFor = (source) => builder.image(source);
